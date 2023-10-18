@@ -1,4 +1,4 @@
-# Aggressiondetection
+# Aggression detection
 My internship assignment involves creating a research documentation,prototype documentation and the Python script that takes audio files as input for Aggression detection in speech or audio.
 # Introduction
 This Aggression Detection Prototype is designed to detect aggression in audio data using machine learning. It combines audio-based feature extraction with emotion classification to identify aggression in spoken content. The prototype utilizes a Multi-Layer Perceptron (MLP) classifier and is designed to provide users with a simple tool for emotion detection.
