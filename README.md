@@ -30,7 +30,7 @@ F1 Scores: F1 scores for individual emotions (e.g., 'calm,' 'disgust,' 'happy,' 
 
 Emotion Predictions: Users can predict emotions for their audio data using the trained model. A sample prediction ('disgust') is demonstrated in the code.
 
-# Model Serialization: The trained model is saved to a file for future use.
+Model Serialization: The trained model is saved to a file for future use.
 
 # Prototype Documentation
 For detailed documentation of the prototype, including its approach, features, preprocessing steps, and user manual, please refer to the Prototype Documentation file.
